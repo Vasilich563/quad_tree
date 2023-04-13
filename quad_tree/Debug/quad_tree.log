@@ -1,0 +1,59 @@
+﻿  quad_tree.cpp
+E:\work\c++saves\my_projects\quad_tree\quad_tree\quad_tree.h(106,19): warning C4244: инициализация: преобразование "double" в "size_t", возможна потеря данных
+E:\work\c++saves\my_projects\quad_tree\quad_tree\quad_tree.h(73): message : во время компиляции функции-члена класс шаблон "tree<int>::Node<T> *tree<T>::beat_on_quattro(std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>>)"
+          with
+          [
+              T=int
+          ]
+E:\work\c++saves\my_projects\quad_tree\quad_tree\quad_tree.h(67): message : выполняется компиляция ссылки на экземпляр шаблон функции "tree<int>::Node<T> *tree<T>::beat_on_quattro(std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>>)"
+          with
+          [
+              T=int
+          ]
+E:\work\c++saves\my_projects\quad_tree\quad_tree\quad_tree.h(285): message : во время компиляции функции-члена класс шаблон "void tree<int>::deleteALL(tree<int>::Node<T> *)"
+          with
+          [
+              T=int
+          ]
+E:\work\c++saves\my_projects\quad_tree\quad_tree\quad_tree.h(56): message : выполняется компиляция ссылки на экземпляр шаблон функции "void tree<int>::deleteALL(tree<int>::Node<T> *)"
+          with
+          [
+              T=int
+          ]
+E:\work\c++saves\my_projects\quad_tree\quad_tree\quad_tree.cpp(16): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "tree<int>"
+E:\work\c++saves\my_projects\quad_tree\quad_tree\quad_tree.h(113,18): warning C4244: инициализация: преобразование "double" в "size_t", возможна потеря данных
+E:\work\c++saves\my_projects\quad_tree\quad_tree\quad_tree.h(122,18): warning C4244: инициализация: преобразование "double" в "size_t", возможна потеря данных
+E:\work\c++saves\my_projects\quad_tree\quad_tree\quad_tree.h(124,19): warning C4244: инициализация: преобразование "double" в "size_t", возможна потеря данных
+E:\work\c++saves\my_projects\quad_tree\quad_tree\quad_tree.h(255,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+E:\work\c++saves\my_projects\quad_tree\quad_tree\quad_tree.h(210): message : во время компиляции функции-члена класс шаблон "std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> tree<int>::converte_to_matrix(tree<int>::Node<T> *)"
+          with
+          [
+              T=int
+          ]
+E:\work\c++saves\my_projects\quad_tree\quad_tree\quad_tree.h(204): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> tree<int>::converte_to_matrix(tree<int>::Node<T> *)"
+          with
+          [
+              T=int
+          ]
+E:\work\c++saves\my_projects\quad_tree\quad_tree\quad_tree.h(261,14): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+E:\work\c++saves\my_projects\quad_tree\quad_tree\quad_tree.h(270,14): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+E:\work\c++saves\my_projects\quad_tree\quad_tree\quad_tree.h(273,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+E:\work\c++saves\my_projects\quad_tree\quad_tree\quad_tree.h(145,33): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+E:\work\c++saves\my_projects\quad_tree\quad_tree\quad_tree.h(240): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> get_normal<int>(std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>>,int)"
+E:\work\c++saves\my_projects\quad_tree\quad_tree\quad_tree.h(210): message : во время компиляции функции-члена класс шаблон "std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> tree<int>::converte_to_matrix(tree<int>::Node<T> *)"
+          with
+          [
+              T=int
+          ]
+E:\work\c++saves\my_projects\quad_tree\quad_tree\quad_tree.h(204): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> tree<int>::converte_to_matrix(tree<int>::Node<T> *)"
+          with
+          [
+              T=int
+          ]
+E:\work\c++saves\my_projects\quad_tree\quad_tree\quad_tree.h(148,37): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+E:\work\c++saves\my_projects\quad_tree\quad_tree\quad_tree.h(174,17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+E:\work\c++saves\my_projects\quad_tree\quad_tree\quad_tree.h(179,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+E:\work\c++saves\my_projects\quad_tree\quad_tree\quad_tree.h(186,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+E:\work\c++saves\my_projects\quad_tree\quad_tree\quad_tree.h(188,17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+E:\work\c++saves\my_projects\quad_tree\quad_tree\quad_tree.h(195,54): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  quad_tree.vcxproj -> E:\work\c++saves\my_projects\quad_tree\Debug\quad_tree.exe
